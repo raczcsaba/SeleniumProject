@@ -1,0 +1,11 @@
+{
+  "name": "yt-ad-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test"
+  },
+  "author": "",
+  "license": "ISC"
+}
